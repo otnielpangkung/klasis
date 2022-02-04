@@ -15,4 +15,4 @@ const moment = require("moment")
 let a = new Date()
 let b = moment.format("YY")
 // let n = a.slice(0, 4)
-console.log(b);
+console.log(a);
